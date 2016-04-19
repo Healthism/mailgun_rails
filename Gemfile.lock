@@ -3,7 +3,7 @@ PATH
   specs:
     mailgun_rails (0.6.0)
       rails (>= 3.2.13)
-      rest-client (~> 1.6.7)
+      rest-client (~> 1.6)
 
 GEM
   remote: https://rubygems.org/
